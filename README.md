@@ -9,11 +9,11 @@ My journey into programming started when I was ten, building websites out of cur
 
 ## Project Highlights
 
-My software development highlights can be found below.
+My software development highlights can be found below. Unfortunately, I am currently unable to open-source many of these projects. I plan on open sourcing more of my projects in the future.
 
 ### Research & Development Tools
 
-Provided are samples of my recent work. I plan on open sourcing more of my projects in the future.
+Provided are samples of my recent research and development tool projects.
 
 <a href="https://github.com/yousefalshaikh17/lua-unit-testing-library" target="_blank">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=lua-unit-testing-library&theme=transparent&description_lines_count=2" />
