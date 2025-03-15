@@ -1,4 +1,4 @@
-## About Me
+# About Me
 
 Hi, I'm Yousef!
 
@@ -7,11 +7,11 @@ I'm a passionate software developer with a background in full-stack development 
 My journey into programming started when I was ten, building websites out of curiosity. That early passion grew into a deep interest in creating scalable systems, optimizing performance, and leveraging technology to solve real-world problems. I eventually explored game development, where I had the opportunity to collaborate with artists, combining my love for coding with bringing creative ideas to life through immersive user experiences.
 
 
-## Project Highlights
+# Project Highlights
 
 My software development highlights can be found below. Unfortunately, I am currently unable to open-source many of these projects. I plan on open sourcing more of my projects in the future.
 
-### Research & Development Tools
+## Research & Development Tools
 
 Provided are samples of my recent research and development tool projects.
 
@@ -23,7 +23,7 @@ Provided are samples of my recent research and development tool projects.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=protein_mesh_simulated_annealing&theme=transparent&description_lines_count=2" />
 </a>
 
-### Mobile Development
+## Mobile Development
 
 I have worked on two mobile applications, which can be found below.
 
@@ -35,7 +35,7 @@ I have worked on two mobile applications, which can be found below.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=plant-simulator-game-mobile&theme=transparent&description_lines_count=2" />
 </a>
 
-### Game Development
+## Game Development
 
 I have worked on several game development projects across multiple platforms. Some projects shown below are components for published works.
 
@@ -49,5 +49,5 @@ I have worked on several game development projects across multiple platforms. So
 
 
 
-## Credits
+# Credits
 Embeds were created through [README stats](https://github.com/anuraghazra/github-readme-stats)
