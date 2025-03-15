@@ -49,5 +49,5 @@ I have worked on several game development projects across multiple platforms. So
 
 
 
-### Credits
+## Credits
 Embeds were created through [README stats](https://github.com/anuraghazra/github-readme-stats)
