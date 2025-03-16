@@ -1,6 +1,6 @@
-# About Me
+Hi, I'm Yousef! Welcome to my Github profile! ☺️
 
-Hi, I'm Yousef!
+# About Me
 
 I'm a passionate software developer with a background in full-stack development and a strong focus on backend systems. I also have a solid background in game development, which has fueled my creativity and technical problem-solving skills. I recently earned my Master's in Advanced Computer Science from the University of Leeds and have been developing software for many years, constantly expanding my skills through personal projects and research.
 
