@@ -51,6 +51,8 @@ I have worked on several game development projects across multiple platforms. So
 
 ## GitHub Top Languages
 
+For fun, here are my top languages according to GitHub! I will add that this does not include projects I could not open-source, which would showcase a larger variety of languages.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefalshaikh17&layout=donut&theme=transparent)](https://github.com/yousefalshaikh17?tab=repositories)
 
 
