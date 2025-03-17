@@ -49,7 +49,8 @@ I have worked on several game development projects across multiple platforms. So
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=x-marks-the-spot&theme=transparent&description_lines_count=2" />
 </a>
 
-
+## GitHub Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefalshaikh17&show_icons=true&locale=en&layout=compact&theme=transparent)]([https://github.com/yousefalshaikh17/](https://github.com/yousefalshaikh17?tab=repositories))
 
 # Credits
 Embeds were created through [README stats](https://github.com/anuraghazra/github-readme-stats)
