@@ -50,7 +50,9 @@ I have worked on several game development projects across multiple platforms. So
 </a>
 
 ## GitHub Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefalshaikh17&show_icons=true&locale=en&layout=compact&theme=transparent)]([https://github.com/yousefalshaikh17/](https://github.com/yousefalshaikh17?tab=repositories))
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefalshaikh17&layout=donut&theme=transparent)](https://github.com/yousefalshaikh17?tab=repositories)
+
 
 # Credits
 Embeds were created through [README stats](https://github.com/anuraghazra/github-readme-stats)
