@@ -31,11 +31,11 @@ Provided are samples of my recent research and development tool projects.
 I have worked on two mobile applications, which can be found below.
 
 <a href="https://github.com/yousefalshaikh17/object-detector-app-for-tourists" target="_blank">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=object-detector-app-for-tourists&theme=transparent&description_lines_count=2" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=object-detector-app-for-tourists&theme=transparent&description_lines_count=2&" />
 </a>
 
 <a href="https://github.com/yousefalshaikh17/plant-simulator-game-mobile" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=plant-simulator-game-mobile&theme=transparent&description_lines_count=2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=plant-simulator-game-mobile&theme=transparent&description_lines_count=2&" />
 </a>
 
 ## Game Development
@@ -43,11 +43,11 @@ I have worked on two mobile applications, which can be found below.
 I have worked on several game development projects across multiple platforms. Some projects shown below are components for published works.
 
 <a href="https://github.com/yousefalshaikh17/3d-game-console-museum" target="_blank">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=3d-game-console-museum&theme=transparent&description_lines_count=2" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=3d-game-console-museum&theme=transparent&description_lines_count=2&" />
 </a>
 
 <a href="https://github.com/yousefalshaikh17/x-marks-the-spot" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=x-marks-the-spot&theme=transparent&description_lines_count=2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=x-marks-the-spot&theme=transparent&description_lines_count=2&" />
 </a>
 
 ## GitHub Top Languages
@@ -55,7 +55,7 @@ I have worked on several game development projects across multiple platforms. So
 For fun, here are my top languages according to GitHub! Due to a few of my projects not being open sourced, I have also added a weighted version where size and count weighting was adjusted to better represent my capabilities.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefalshaikh17&layout=donut&theme=transparent&langs_count=30)](https://github.com/yousefalshaikh17?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefalshaikh17&layout=donut&theme=transparent&size_weight=0.4&count_weight=0.6&langs_count=30&custom_title=Most%20Used%20Languages%20(Weighted))](https://github.com/yousefalshaikh17?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefalshaikh17&layout=donut&theme=transparent&size_weight=0.3&count_weight=0.7&langs_count=31&custom_title=Most%20Used%20Languages%20(Weighted))](https://github.com/yousefalshaikh17?tab=repositories)
 
 
 # Credits
