@@ -34,7 +34,7 @@ I have worked on two mobile applications, which can be found below.
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=object-detector-app-for-tourists&theme=transparent&description_lines_count=2&" />
 </a>
 
-<a href="https://github.com/yousefalshaikh17/plant-simulator-game-mobile" target="_blank">
+<a href="https://github.com/yousefalshaikh17/plant-simulator-game-ios" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=plant-simulator-game-mobile&theme=transparent&description_lines_count=2&" />
 </a>
 
@@ -52,10 +52,10 @@ I have worked on several game development projects across multiple platforms. So
 
 ## GitHub Top Languages
 
-For fun, here are my top languages according to GitHub! Due to a few of my projects not being open sourced, I have also added a weighted version where size and count weighting was adjusted to better represent my capabilities.
+For fun, here are my top languages according to GitHub! Due to a few of my projects not being open sourced, some percentages may be lower than expected.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefalshaikh17&layout=donut&theme=transparent&langs_count=30)](https://github.com/yousefalshaikh17?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefalshaikh17&layout=donut&theme=transparent&size_weight=0.3&count_weight=0.7&langs_count=31&custom_title=Most%20Used%20Languages%20(Weighted))](https://github.com/yousefalshaikh17?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefalshaikh17&layout=donut&theme=transparent&langs_count=25)](https://github.com/yousefalshaikh17?tab=repositories)
+
 
 
 # Credits
