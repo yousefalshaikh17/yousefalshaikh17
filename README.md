@@ -35,7 +35,7 @@ I have worked on two mobile applications, which can be found below.
 </a>
 
 <a href="https://github.com/yousefalshaikh17/plant-simulator-game-ios" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=plant-simulator-game-mobile&theme=transparent&description_lines_count=2&" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=plant-simulator-game-ios&theme=transparent&description_lines_count=2&" />
 </a>
 
 ## Game Development
