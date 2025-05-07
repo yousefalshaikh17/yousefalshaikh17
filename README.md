@@ -48,6 +48,13 @@ I have worked on several game development projects across multiple platforms. So
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=x-marks-the-spot&theme=transparent&description_lines_count=2&" />
 </a>
 
+## GitHub Stats
+
+These stats demonstrate my activity on GitHub!
+
+[![Stats](https://github-readme-stats.vercel.app/api/?username=yousefalshaikh17&show_icons=true&theme=transparent)](https://github.com/yousefalshaikh17?tab=repositories)
+
+
 ## GitHub Top Languages
 
 For fun, here are my top languages according to GitHub! Due to a few of my projects not being open sourced, some percentages may be lower than expected.
