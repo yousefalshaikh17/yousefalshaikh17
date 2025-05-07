@@ -4,14 +4,12 @@ Hi, I'm Yousef! Welcome to my Github profile! ☺️
 
 # About Me
 
-I'm a passionate software developer with a background in full-stack development and a strong focus on backend systems. I also have a solid background in game development, which has fueled my creativity and technical problem-solving skills. I recently earned my Master's in Advanced Computer Science from the University of Leeds and have been developing software for many years, constantly expanding my skills through personal projects and research.
-
-My journey into programming started when I was ten, building websites out of curiosity. That early passion grew into a deep interest in creating scalable systems, optimizing performance, and leveraging technology to solve real-world problems. I eventually explored game development, where I had the opportunity to collaborate with artists, combining my love for coding with bringing creative ideas to life through immersive user experiences.
+Software engineer and game programmer passionate about building engaging experiences and practical tools. Sole programmer for a game with 25M+ visits. Proficient in Python, C#, C++, Lua/Luau, JavaScript, TypeScript, Java, Kotlin, Swift, PHP, Unity, and Roblox (and currently learning Unreal). Check out my repos for examples of my work!
 
 
 # Project Highlights
 
-My software development highlights can be found below. Unfortunately, I am currently unable to open-source many of these projects. I plan on open sourcing more of my projects in the future.
+My software development highlights can be found below. I plan on open sourcing more of my projects in the future.
 
 ## Research & Development Tools
 
