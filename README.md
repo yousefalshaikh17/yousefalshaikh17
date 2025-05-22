@@ -57,9 +57,9 @@ These stats demonstrate my activity on GitHub!
 
 ## GitHub Top Languages
 
-For fun, here are my top languages according to GitHub! Due to a few of my projects not being open sourced, some percentages may be lower than expected.
+For fun, here are my top languages according to GitHub! This chart has been weighted with values recommended by the developer.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefalshaikh17&layout=donut&theme=transparent&langs_count=25)](https://github.com/yousefalshaikh17?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefalshaikh17&layout=donut&theme=transparent&langs_count=7&size_weight=0.5&count_weight=0.5)](https://github.com/yousefalshaikh17?tab=repositories)
 
 
 
