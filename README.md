@@ -40,13 +40,26 @@ I have worked on two mobile applications, which can be found below.
 
 I have worked on several game development projects across multiple platforms. Some projects shown below are components for published works.
 
-<a href="https://github.com/yousefalshaikh17/3d-game-console-museum" target="_blank">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=3d-game-console-museum&theme=transparent&description_lines_count=2&" />
-</a>
+<div>
+  <a href="https://github.com/yousefalshaikh17/Xeno-Crisis" target="_blank">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=Xeno-Crisis&theme=transparent&description_lines_count=2&" />
+  </a>
 
-<a href="https://github.com/yousefalshaikh17/x-marks-the-spot" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=x-marks-the-spot&theme=transparent&description_lines_count=2&" />
-</a>
+  <a href="https://github.com/yousefalshaikh17/2d-game-engine" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=2d-game-engine&theme=transparent&description_lines_count=2&" />
+  </a>
+</div>
+<br>
+<div>
+  <a href="https://github.com/yousefalshaikh17/3d-game-console-museum" target="_blank">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=3d-game-console-museum&theme=transparent&description_lines_count=2&" />
+  </a>
+
+  <a href="https://github.com/yousefalshaikh17/x-marks-the-spot" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=x-marks-the-spot&theme=transparent&description_lines_count=2&" />
+  </a>
+</div>
+
 
 ## GitHub Stats
 
