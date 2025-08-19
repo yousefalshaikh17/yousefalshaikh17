@@ -11,31 +11,6 @@ Software engineer and game programmer passionate about building engaging experie
 
 My software development highlights can be found below. I plan on open sourcing more of my projects in the future.
 
-## Research & Development Tools
-
-Provided are samples of my recent research and development tool projects.
-
-<a href="https://github.com/yousefalshaikh17/protein_mesh_simulated_annealing" target="_blank">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=protein_mesh_simulated_annealing&theme=transparent&description_lines_count=2" />
-</a>
-
-
-<a href="https://github.com/yousefalshaikh17/lua-unit-testing-library" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=lua-unit-testing-library&theme=transparent&description_lines_count=2" />
-</a>
-
-## Mobile Development
-
-I have worked on two mobile applications, which can be found below.
-
-<a href="https://github.com/yousefalshaikh17/object-detector-app-for-tourists" target="_blank">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=object-detector-app-for-tourists&theme=transparent&description_lines_count=2&" />
-</a>
-
-<a href="https://github.com/yousefalshaikh17/plant-simulator-game-ios" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=plant-simulator-game-ios&theme=transparent&description_lines_count=2&" />
-</a>
-
 ## Game Development
 
 I have worked on several game development projects across multiple platforms. Some projects shown below are components for published works.
@@ -60,6 +35,30 @@ I have worked on several game development projects across multiple platforms. So
   </a>
 </div>
 
+## Research & Development Tools
+
+Provided are samples of my recent research and development tool projects.
+
+<a href="https://github.com/yousefalshaikh17/protein_mesh_simulated_annealing" target="_blank">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=protein_mesh_simulated_annealing&theme=transparent&description_lines_count=2" />
+</a>
+
+
+<a href="https://github.com/yousefalshaikh17/lua-unit-testing-library" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=lua-unit-testing-library&theme=transparent&description_lines_count=2" />
+</a>
+
+## Mobile Development
+
+I have worked on two mobile applications, which can be found below.
+
+<a href="https://github.com/yousefalshaikh17/object-detector-app-for-tourists" target="_blank">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=object-detector-app-for-tourists&theme=transparent&description_lines_count=2&" />
+</a>
+
+<a href="https://github.com/yousefalshaikh17/plant-simulator-game-ios" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousefalshaikh17&repo=plant-simulator-game-ios&theme=transparent&description_lines_count=2&" />
+</a>
 
 ## GitHub Stats
 
