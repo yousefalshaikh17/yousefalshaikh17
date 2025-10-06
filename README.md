@@ -4,12 +4,12 @@ Hi, I'm Yousef! Welcome to my Github profile! ☺️
 
 # About Me
 
-Software engineer and game programmer passionate about building engaging experiences and practical tools. Sole programmer for a game with 25M+ visits. Proficient in Python, C#, C++, Lua/Luau, JavaScript, TypeScript, Java, Kotlin, Swift, PHP, Unity, and Roblox (and currently learning Unreal). Check out my repos for examples of my work!
+Game programmer and software engineer passionate about building engaging experiences and practical tools. Proficient in C#, C++, Lua/Luau, Python, JavaScript, TypeScript, Java, Kotlin, Swift, PHP. Game engines include Unity, Unreal Engine, and Roblox. Check out my repos for examples of my work!
 
 
 # Project Highlights
 
-My software development highlights can be found below. I plan on open sourcing more of my projects in the future.
+My development highlights can be found below. I plan on open sourcing more of my projects in the future.
 
 ## Game Development
 
@@ -71,7 +71,7 @@ These stats demonstrate my activity on GitHub!
 
 For fun, here are my top languages according to GitHub! This chart has been weighted with values recommended by the developer.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefalshaikh17&layout=donut&theme=transparent&langs_count=7&size_weight=0.5&count_weight=0.5)](https://github.com/yousefalshaikh17?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefalshaikh17&layout=donut&theme=transparent&langs_count=6&size_weight=0.5&count_weight=0.5&exclude_repo=leetcode-practice)](https://github.com/yousefalshaikh17?tab=repositories)
 
 
 
